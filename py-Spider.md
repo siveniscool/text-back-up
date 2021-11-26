@@ -74,9 +74,13 @@ novel = html.text
 
 #### 带参数的请求数据
 
-1. 从XHR中找到需要的数据，将`Query String Parameters`里的内容封装为一个字典，传递给 **params**（params是requests.get()中的一个参数）
-2. 添加**Request Headers**,可以使用Requests，哦快的官方文档中“user-agent”来看。`origin`或`refer`也类似
-3. 然后将他们放在requests.get()的参数中
+* post和get都可以带参数请求，但是get请求的参数会在url上显示出来。post请求的参数不会直接显示，而是会隐藏起来。
+
+* 通常，get请求会用于获取网页数据，post请求则用于向网页提交数据，比如说密码。
+
+* request headers中存储的是浏览器的请求信息，response headers存储的是服务器的响应信息，cookies就在请求信息中。
+
+* 从headers中的from data中可以看到需要的五个参数
 
 #### cookies
 
@@ -98,7 +102,9 @@ cookies = log_in.cookies
 
 #### 存储cookies
 
+> 可以把cookies转化成字典，然后转化成json模式，再从json转化成字符串储存在文件中。在提取的时候再把字符串转成字典，再将字典转化成原来的模式。
 
+//好麻烦，直接复制粘贴不来的更快吗= =
 
 #### session
 
@@ -111,6 +117,8 @@ cookies = log_in.cookies
 ```pyt
 session.post(url,headers=headers,data=data)
 ```
+
+data中放的是账号啊密码啊啥的，就是在前面的那里看到的那个。
 
 
 
