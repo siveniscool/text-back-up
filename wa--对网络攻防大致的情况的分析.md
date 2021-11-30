@@ -1,7 +1,8 @@
 ---
 title: 网络攻防--对网络攻防大致的情况的分析
 time: 2021/10/31 22:00:00
-tag: 网络安全
+tag: wa
+cover: /imgs/feng8.jpg
 ---
 
 <font color=green>本文主要参考了https://blog.csdn.net/xuanyuan_fsx/article/details/108403062←这个</font>

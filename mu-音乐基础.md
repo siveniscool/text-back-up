@@ -3,6 +3,7 @@ title: 音乐基础
 date: 2021-11-25 19:35:35
 tags: 音乐基础
 cover: /imgs/feng10.jpg
+category: 课外
 description: 进行了一个乐理的学
 ---
 

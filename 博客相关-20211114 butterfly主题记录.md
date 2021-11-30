@@ -1,6 +1,7 @@
 ---
 title: butterfly主题记录
 tag: 博客相关
+category: 课外
 cover: /imgs/feng2.jpg
 ---
 
