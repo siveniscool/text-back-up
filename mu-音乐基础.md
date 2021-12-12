@@ -3,9 +3,11 @@ title: 音乐基础
 date: 2021-11-25 19:35:35
 tags: 音乐基础
 cover: /imgs/feng10.jpg
-category: 课外
-description: 进行了一个乐理的学
+category: 学习笔记
+description: 时不时看了某些视频之后想要自己编曲而产生了这个
 ---
+
+https://www.bilibili.com/video/BV1Hx411S7zm
 
 ### 音程--两个音
 
@@ -220,3 +222,4 @@ leading base几乎可以唱30%的歌曲
 
 ### II-V-I和声丰富和弦变化
 
+关于音源和编曲软件

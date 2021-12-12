@@ -2,6 +2,7 @@
 title: send-email
 date: 2021-11-23 20:56:25
 tag: python
+category: 学习笔记
 cover: /imgs/feng.jpg
 ---
 

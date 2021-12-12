@@ -1,6 +1,7 @@
 ---
 title: selenium库
 tag: python
+category: 学习笔记
 cover: /imgs/feng.jpg
 ---
 

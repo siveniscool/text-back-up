@@ -3,6 +3,7 @@ title: Spider
 date: 2021-11-20 10:18:59
 tags: python
 description: 因为划了很久的水，所以大概都忘光了。。。
+category: 学习笔记
 cover: /imgs/feng.jpg
 ---
 
